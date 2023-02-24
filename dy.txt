@@ -1,6 +1,7 @@
-//公众号【all in one】
-//公众号【all in one】
-//公众号【all in one】
+
+//公众号【日记】
+//公众号【日记】
+//公众号【日记】
 
 //
 //
@@ -54,9 +55,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+},
+	
+
+{"key":"说明","name":"公众号：日记","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"说明2","name":"提供免费维护","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
 
 
-
+],
 
 
 "parses":[
