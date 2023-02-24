@@ -31,7 +31,6 @@
 {"key":"t4豆瓣","name":"🅱豆瓣荐片┃T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Kuaikan","name":"👀快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Tian","name":"🆗天天〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
-{"key":"csp_Ysgc","name":"🎥影视工厂〔SP〕","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
 {"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💘360〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,7 +42,6 @@
 {"key":"csp_Cokemv","name":"📺Cokemv〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🌸动漫大全〔SP〕","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Dm84","name":"🚌动漫巴士〔SP〕","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🐾日本动漫〔SP〕","type": 3,"api": "csp_Anime1","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xBPQ新大米","name":"🌾大米影视〔SP〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
 
