@@ -21,6 +21,8 @@
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0206.jpg;md5;ddaf13d7923ea1e333ea06ed930778a2",
 
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
+"wallpaper":"http://maoyingshi.cc/api.php",
 
   
   
@@ -44,15 +46,20 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士〔SP〕","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ新大米","name":"🌾大米影视〔SP〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#连续剧$21#综艺$22#动漫$23#福利$35","分类url":"https://www.lkfrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/pjax/YES.html"}},
 
-{
 
+	
+
+
+{
             "key": "csp_app_源头",
             "name": "🐈┃肥猫┃影院",
             "type": 1,
             "api": "http://我是.肥猫.love:63/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1},
+            "filterable": 1
+	
+
 
 {"key":"说明","name":"公众号：云星日记","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"提供免费维护","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1}
@@ -70,7 +77,7 @@
 		"type": 1,
 		"url": "https://chaloli.cn/api/?key=2ef91c1834765dd6df0701dc69395f88&url="
 	}, 
-//哥们你怎么天天来偷我接口，给你网址 chaloli.cn 你自己去买一个不香吗？
+//给你网址 chaloli.cn 
 	{
 		"name": "未知①",
 		"type": 1,
