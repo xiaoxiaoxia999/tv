@@ -22,8 +22,8 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
-"sites":[
-"wallpaper":"http://maoyingshi.cc/api.php",
+"sites":https://raw.githubusercontent.com/xiaoxiaoxia999/tv/main/v.txt",
+
 
 
 
